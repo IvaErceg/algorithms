@@ -64,6 +64,6 @@ function max(arr) {
 */
 Array.prototype.myForEach = function(func){
     for(var i = 0; i < this.length; i++){
-        func(arr[i]);
+        func(this[i]);
     }
 }
