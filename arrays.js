@@ -1,6 +1,6 @@
 /*
 * @param array
-* Prints elements of array in reverse order
+* Prints all elements of array in reverse order
 */
 
 function printReverse(arr) {
